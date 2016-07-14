@@ -1,0 +1,498 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9524A9301D37712E0003E1D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A92F1D37712E0003E1D4 /* AppDelegate.swift */; };
+		9524A9321D37712E0003E1D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A9311D37712E0003E1D4 /* ViewController.swift */; };
+		9524A9341D37712E0003E1D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9524A9331D37712E0003E1D4 /* Assets.xcassets */; };
+		9524A9371D37712E0003E1D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9524A9351D37712E0003E1D4 /* Main.storyboard */; };
+		9524A9421D37712E0003E1D4 /* BeloteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A9411D37712E0003E1D4 /* BeloteTests.swift */; };
+		9524A94D1D37712E0003E1D4 /* BeloteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A94C1D37712E0003E1D4 /* BeloteUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9524A93E1D37712E0003E1D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9524A9241D37712E0003E1D4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9524A92B1D37712E0003E1D4;
+			remoteInfo = Belote;
+		};
+		9524A9491D37712E0003E1D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9524A9241D37712E0003E1D4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9524A92B1D37712E0003E1D4;
+			remoteInfo = Belote;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9524A92C1D37712E0003E1D4 /* Belote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Belote.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9524A92F1D37712E0003E1D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9524A9311D37712E0003E1D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9524A9331D37712E0003E1D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9524A9361D37712E0003E1D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9524A9381D37712E0003E1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9524A93D1D37712E0003E1D4 /* BeloteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeloteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9524A9411D37712E0003E1D4 /* BeloteTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeloteTests.swift; sourceTree = "<group>"; };
+		9524A9431D37712E0003E1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9524A9481D37712E0003E1D4 /* BeloteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeloteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9524A94C1D37712E0003E1D4 /* BeloteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeloteUITests.swift; sourceTree = "<group>"; };
+		9524A94E1D37712E0003E1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9524A9291D37712E0003E1D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9524A93A1D37712E0003E1D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9524A9451D37712E0003E1D4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9524A9231D37712E0003E1D4 = {
+			isa = PBXGroup;
+			children = (
+				9524A92E1D37712E0003E1D4 /* Belote */,
+				9524A9401D37712E0003E1D4 /* BeloteTests */,
+				9524A94B1D37712E0003E1D4 /* BeloteUITests */,
+				9524A92D1D37712E0003E1D4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9524A92D1D37712E0003E1D4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9524A92C1D37712E0003E1D4 /* Belote.app */,
+				9524A93D1D37712E0003E1D4 /* BeloteTests.xctest */,
+				9524A9481D37712E0003E1D4 /* BeloteUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9524A92E1D37712E0003E1D4 /* Belote */ = {
+			isa = PBXGroup;
+			children = (
+				9524A92F1D37712E0003E1D4 /* AppDelegate.swift */,
+				9524A9311D37712E0003E1D4 /* ViewController.swift */,
+				9524A9331D37712E0003E1D4 /* Assets.xcassets */,
+				9524A9351D37712E0003E1D4 /* Main.storyboard */,
+				9524A9381D37712E0003E1D4 /* Info.plist */,
+			);
+			path = Belote;
+			sourceTree = "<group>";
+		};
+		9524A9401D37712E0003E1D4 /* BeloteTests */ = {
+			isa = PBXGroup;
+			children = (
+				9524A9411D37712E0003E1D4 /* BeloteTests.swift */,
+				9524A9431D37712E0003E1D4 /* Info.plist */,
+			);
+			path = BeloteTests;
+			sourceTree = "<group>";
+		};
+		9524A94B1D37712E0003E1D4 /* BeloteUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9524A94C1D37712E0003E1D4 /* BeloteUITests.swift */,
+				9524A94E1D37712E0003E1D4 /* Info.plist */,
+			);
+			path = BeloteUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9524A92B1D37712E0003E1D4 /* Belote */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9524A9511D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "Belote" */;
+			buildPhases = (
+				9524A9281D37712E0003E1D4 /* Sources */,
+				9524A9291D37712E0003E1D4 /* Frameworks */,
+				9524A92A1D37712E0003E1D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Belote;
+			productName = Belote;
+			productReference = 9524A92C1D37712E0003E1D4 /* Belote.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9524A93C1D37712E0003E1D4 /* BeloteTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9524A9541D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "BeloteTests" */;
+			buildPhases = (
+				9524A9391D37712E0003E1D4 /* Sources */,
+				9524A93A1D37712E0003E1D4 /* Frameworks */,
+				9524A93B1D37712E0003E1D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9524A93F1D37712E0003E1D4 /* PBXTargetDependency */,
+			);
+			name = BeloteTests;
+			productName = BeloteTests;
+			productReference = 9524A93D1D37712E0003E1D4 /* BeloteTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9524A9471D37712E0003E1D4 /* BeloteUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9524A9571D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "BeloteUITests" */;
+			buildPhases = (
+				9524A9441D37712E0003E1D4 /* Sources */,
+				9524A9451D37712E0003E1D4 /* Frameworks */,
+				9524A9461D37712E0003E1D4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9524A94A1D37712E0003E1D4 /* PBXTargetDependency */,
+			);
+			name = BeloteUITests;
+			productName = BeloteUITests;
+			productReference = 9524A9481D37712E0003E1D4 /* BeloteUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9524A9241D37712E0003E1D4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Matteo Courthoud";
+				TargetAttributes = {
+					9524A92B1D37712E0003E1D4 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					9524A93C1D37712E0003E1D4 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 9524A92B1D37712E0003E1D4;
+					};
+					9524A9471D37712E0003E1D4 = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = 9524A92B1D37712E0003E1D4;
+					};
+				};
+			};
+			buildConfigurationList = 9524A9271D37712E0003E1D4 /* Build configuration list for PBXProject "Belote" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9524A9231D37712E0003E1D4;
+			productRefGroup = 9524A92D1D37712E0003E1D4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9524A92B1D37712E0003E1D4 /* Belote */,
+				9524A93C1D37712E0003E1D4 /* BeloteTests */,
+				9524A9471D37712E0003E1D4 /* BeloteUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9524A92A1D37712E0003E1D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9524A9341D37712E0003E1D4 /* Assets.xcassets in Resources */,
+				9524A9371D37712E0003E1D4 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9524A93B1D37712E0003E1D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9524A9461D37712E0003E1D4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9524A9281D37712E0003E1D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9524A9321D37712E0003E1D4 /* ViewController.swift in Sources */,
+				9524A9301D37712E0003E1D4 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9524A9391D37712E0003E1D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9524A9421D37712E0003E1D4 /* BeloteTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9524A9441D37712E0003E1D4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9524A94D1D37712E0003E1D4 /* BeloteUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9524A93F1D37712E0003E1D4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9524A92B1D37712E0003E1D4 /* Belote */;
+			targetProxy = 9524A93E1D37712E0003E1D4 /* PBXContainerItemProxy */;
+		};
+		9524A94A1D37712E0003E1D4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9524A92B1D37712E0003E1D4 /* Belote */;
+			targetProxy = 9524A9491D37712E0003E1D4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9524A9351D37712E0003E1D4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9524A9361D37712E0003E1D4 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9524A94F1D37712E0003E1D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9524A9501D37712E0003E1D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		9524A9521D37712E0003E1D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = Belote/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = matteo.courthoud.Belote;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9524A9531D37712E0003E1D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = Belote/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = matteo.courthoud.Belote;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		9524A9551D37712E0003E1D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = BeloteTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = matteo.courthoud.BeloteTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Belote.app/Contents/MacOS/Belote";
+			};
+			name = Debug;
+		};
+		9524A9561D37712E0003E1D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = BeloteTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = matteo.courthoud.BeloteTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Belote.app/Contents/MacOS/Belote";
+			};
+			name = Release;
+		};
+		9524A9581D37712E0003E1D4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = BeloteUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = matteo.courthoud.BeloteUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Belote;
+			};
+			name = Debug;
+		};
+		9524A9591D37712E0003E1D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = BeloteUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = matteo.courthoud.BeloteUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Belote;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9524A9271D37712E0003E1D4 /* Build configuration list for PBXProject "Belote" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9524A94F1D37712E0003E1D4 /* Debug */,
+				9524A9501D37712E0003E1D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9524A9511D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "Belote" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9524A9521D37712E0003E1D4 /* Debug */,
+				9524A9531D37712E0003E1D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9524A9541D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "BeloteTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9524A9551D37712E0003E1D4 /* Debug */,
+				9524A9561D37712E0003E1D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		9524A9571D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "BeloteUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9524A9581D37712E0003E1D4 /* Debug */,
+				9524A9591D37712E0003E1D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9524A9241D37712E0003E1D4 /* Project object */;
+}
