@@ -7,12 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9518B31A1D38D259005A72B6 /* Carta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9518B3191D38D259005A72B6 /* Carta.swift */; };
+		9518B3281D392584005A72B6 /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9518B3271D392584005A72B6 /* ContainerViewController.swift */; };
+		9518B3341D3B6AD8005A72B6 /* finalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9518B3331D3B6AD8005A72B6 /* finalViewController.swift */; };
+		9518B3381D3C1AFF005A72B6 /* guardaUltimaMano.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9518B3371D3C1AFF005A72B6 /* guardaUltimaMano.swift */; };
+		9518B33D1D3C1DC7005A72B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9518B33B1D3C1DC7005A72B6 /* Main.storyboard */; };
+		9518B33F1D3E9108005A72B6 /* initialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9518B33E1D3E9108005A72B6 /* initialViewController.swift */; };
 		9524A9301D37712E0003E1D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A92F1D37712E0003E1D4 /* AppDelegate.swift */; };
-		9524A9321D37712E0003E1D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A9311D37712E0003E1D4 /* ViewController.swift */; };
-		9524A9341D37712E0003E1D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9524A9331D37712E0003E1D4 /* Assets.xcassets */; };
-		9524A9371D37712E0003E1D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9524A9351D37712E0003E1D4 /* Main.storyboard */; };
 		9524A9421D37712E0003E1D4 /* BeloteTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A9411D37712E0003E1D4 /* BeloteTests.swift */; };
 		9524A94D1D37712E0003E1D4 /* BeloteUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9524A94C1D37712E0003E1D4 /* BeloteUITests.swift */; };
+		95F01EDB1D40B5A600003790 /* CrossfadeStoryboardSegue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F01EDA1D40B5A600003790 /* CrossfadeStoryboardSegue.swift */; };
+		95F01EDD1D40BCD300003790 /* sourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F01EDC1D40BCD300003790 /* sourceViewController.swift */; };
+		95F01EDF1D411E3700003790 /* rulesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F01EDE1D411E3700003790 /* rulesViewController.swift */; };
+		95F01EE11D413C8600003790 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95F01EE01D413C8600003790 /* Assets.xcassets */; };
+		95F01EEB1D4665AD00003790 /* infoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95F01EEA1D4665AD00003790 /* infoViewController.swift */; };
+		95F01EED1D473BBB00003790 /* Regole.txt in Resources */ = {isa = PBXBuildFile; fileRef = 95F01EEC1D473BBB00003790 /* Regole.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,11 +42,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9518B3191D38D259005A72B6 /* Carta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Carta.swift; sourceTree = "<group>"; };
+		9518B3271D392584005A72B6 /* ContainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
+		9518B3331D3B6AD8005A72B6 /* finalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = finalViewController.swift; sourceTree = "<group>"; };
+		9518B3371D3C1AFF005A72B6 /* guardaUltimaMano.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = guardaUltimaMano.swift; sourceTree = "<group>"; };
+		9518B33C1D3C1DC7005A72B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Belote/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9518B33E1D3E9108005A72B6 /* initialViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = initialViewController.swift; sourceTree = "<group>"; };
 		9524A92C1D37712E0003E1D4 /* Belote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Belote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9524A92F1D37712E0003E1D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9524A9311D37712E0003E1D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9524A9331D37712E0003E1D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9524A9361D37712E0003E1D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9524A9381D37712E0003E1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9524A93D1D37712E0003E1D4 /* BeloteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeloteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9524A9411D37712E0003E1D4 /* BeloteTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeloteTests.swift; sourceTree = "<group>"; };
@@ -45,6 +57,12 @@
 		9524A9481D37712E0003E1D4 /* BeloteUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BeloteUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9524A94C1D37712E0003E1D4 /* BeloteUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeloteUITests.swift; sourceTree = "<group>"; };
 		9524A94E1D37712E0003E1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95F01EDA1D40B5A600003790 /* CrossfadeStoryboardSegue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrossfadeStoryboardSegue.swift; sourceTree = "<group>"; };
+		95F01EDC1D40BCD300003790 /* sourceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sourceViewController.swift; sourceTree = "<group>"; };
+		95F01EDE1D411E3700003790 /* rulesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = rulesViewController.swift; sourceTree = "<group>"; };
+		95F01EE01D413C8600003790 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		95F01EEA1D4665AD00003790 /* infoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = infoViewController.swift; sourceTree = "<group>"; };
+		95F01EEC1D473BBB00003790 /* Regole.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Regole.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,9 +114,18 @@
 			isa = PBXGroup;
 			children = (
 				9524A92F1D37712E0003E1D4 /* AppDelegate.swift */,
-				9524A9311D37712E0003E1D4 /* ViewController.swift */,
-				9524A9331D37712E0003E1D4 /* Assets.xcassets */,
-				9524A9351D37712E0003E1D4 /* Main.storyboard */,
+				95F01EDC1D40BCD300003790 /* sourceViewController.swift */,
+				9518B33E1D3E9108005A72B6 /* initialViewController.swift */,
+				95F01EEA1D4665AD00003790 /* infoViewController.swift */,
+				9518B3331D3B6AD8005A72B6 /* finalViewController.swift */,
+				95F01EEC1D473BBB00003790 /* Regole.txt */,
+				95F01EDE1D411E3700003790 /* rulesViewController.swift */,
+				9518B3371D3C1AFF005A72B6 /* guardaUltimaMano.swift */,
+				9518B3191D38D259005A72B6 /* Carta.swift */,
+				9518B33B1D3C1DC7005A72B6 /* Main.storyboard */,
+				95F01EE01D413C8600003790 /* Assets.xcassets */,
+				9518B3271D392584005A72B6 /* ContainerViewController.swift */,
+				95F01EDA1D40B5A600003790 /* CrossfadeStoryboardSegue.swift */,
 				9524A9381D37712E0003E1D4 /* Info.plist */,
 			);
 			path = Belote;
@@ -226,8 +253,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9524A9341D37712E0003E1D4 /* Assets.xcassets in Resources */,
-				9524A9371D37712E0003E1D4 /* Main.storyboard in Resources */,
+				9518B33D1D3C1DC7005A72B6 /* Main.storyboard in Resources */,
+				95F01EE11D413C8600003790 /* Assets.xcassets in Resources */,
+				95F01EED1D473BBB00003790 /* Regole.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,8 +280,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9524A9321D37712E0003E1D4 /* ViewController.swift in Sources */,
+				9518B33F1D3E9108005A72B6 /* initialViewController.swift in Sources */,
+				9518B31A1D38D259005A72B6 /* Carta.swift in Sources */,
+				95F01EEB1D4665AD00003790 /* infoViewController.swift in Sources */,
+				9518B3341D3B6AD8005A72B6 /* finalViewController.swift in Sources */,
+				95F01EDF1D411E3700003790 /* rulesViewController.swift in Sources */,
+				9518B3281D392584005A72B6 /* ContainerViewController.swift in Sources */,
+				95F01EDB1D40B5A600003790 /* CrossfadeStoryboardSegue.swift in Sources */,
 				9524A9301D37712E0003E1D4 /* AppDelegate.swift in Sources */,
+				95F01EDD1D40BCD300003790 /* sourceViewController.swift in Sources */,
+				9518B3381D3C1AFF005A72B6 /* guardaUltimaMano.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,12 +325,13 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9524A9351D37712E0003E1D4 /* Main.storyboard */ = {
+		9518B33B1D3C1DC7005A72B6 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9524A9361D37712E0003E1D4 /* Base */,
+				9518B33C1D3C1DC7005A72B6 /* Base */,
 			);
 			name = Main.storyboard;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -475,6 +512,7 @@
 				9524A9531D37712E0003E1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9524A9541D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "BeloteTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +521,7 @@
 				9524A9561D37712E0003E1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9524A9571D37712E0003E1D4 /* Build configuration list for PBXNativeTarget "BeloteUITests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +530,7 @@
 				9524A9591D37712E0003E1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

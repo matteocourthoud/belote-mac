@@ -1,0 +1,71 @@
+All'interno del gioco sono previste due diverse scale di valore per le carte. La prima, detta "atout" è la scala del seme scelto (la briscola, per intendersi), mentre la seconda riguarda i rimanenti 3 semi.
+
+Atout: 
+	• 7: 0 punti
+	• 8: 0 punti
+	• 9: 14 punti
+	• 10: 10 punti
+	• Jack: 20 punti
+	• Donna: 3 punti
+	• Re: 4 punti
+	• Asso: 11 punti
+
+Senza atout: 
+	• 7: 0 punti
+	• 8: 0 punti
+	• 9: 0 punti
+	• 10: 10 punti
+	• Jack: 2 punti
+	• Donna: 3 punti
+	• Re: 4 punti
+	• Asso: 11 punti
+
+Una volta distribuite le carte, ci sono delle regole da rispettare durante le otto mani di gioco:
+
+	•	Il primo a giocare è il partecipante alla sinistra di quello che ha mischiato il mazzo; ad ogni mano gioca poi per primo il giocatore che ha vinto la mano stessa, in base alle due scale di valore: l'atout vince su qualunque seme e, se ci sono più atout, vince la più alta in tavola.
+
+	•	Bisogna sempre rispondere con una carta dello stesso seme di quella giocata all'inizio della mano o, altrimenti, se non si ha una carta dello stesso seme, giocare un atout (bisogna cioè "tagliare").
+
+	•	Se bisogna giocare un atout per "tagliare" nel momento in cui un atout è già in gioco allora si deve "surtagliare", ossia giocare un atout di valore più alto del precedente, questa regola si applica anche al caso in cui un giocatore inizi la mano con un atout, in questo caso tutti e tre i giocatori dopo saranno costretti a superare il precedente atout solo se ne hanno la possibilità. Se non si hanno carte né del seme giocato né di atout, si può giocare qualunque carta.
+
+	•	All'inizio della mano,i giocatori possono dichiarare "tiers", "50" o "100", cioè delle scale di carte dello stesso seme (nell'ordine "normale" delle carte, cioè quello di scala quaranta), o dei "carré" (poker), senza specificare di che natura. Dichiarazioni di scale uguali (ad esempio due tiers) sono autoescludenti, e bisogna stabilire chi ha la più alta: si ordinano in base alla carta più alta della scala e, a parità di scala, in base al seme, tenendo conto che vince sempre il seme dell'atout scelto in quella mano ("la tiers", quella più alta, è quindi AKQ a atout). I carré sono invece indipendenti e non si escludono a vicenda, ma non valgono quelli di 7 o di 8. Alla seconda mano può essere richiesto di mostrare queste dichiarazioni (ma non è obbligatorio se non viene richiesto); il vantaggio che deriva dalle dichiarazioni è nei punti extra che si ottengono alla fine della mano, e precisamente:
+
+Dichiarazioni
+	• Tiers: 20 punti
+	• Cinquanta: 50 punti
+	• Cento: 100 punti
+	• Carré di 20: 200 punti
+	• Carré di 10: 150 punti
+	• Carré: 100 punti
+
+	•	Nel caso particolare in cui un giocatore dichiari un cento di 8 carte, il giocatore può mostrare le carte e vincere in questo modo la partita. In alcuni ambienti, dove si gioca spesso, si può sentire apostrofare qualcuno come "Chevalier". Questo significa che quel giocatore durante una partita ha rinunciato a dichiarare un'ottava per proseguire la partita e "vincere per meriti più che per fortuna".
+
+	•	Una dichiarazione ulteriore è quella del "Belote e Rebelote": se uno dei giocatori ha in mano il K e la Q di atout, infatti, può dire, entro la fine del giro (cioè prima che l'ultimo giocatore appoggi la carta sul tavolo), Belote quando gioca la prima delle due carte, Rebelote quando gioca la seconda. Questo porta 20 punti extra alla coppia del giocatore che dichiara il "Belote e Rebelote", alzando inoltre la soglia di punteggio di 10 punti, come viene spiegato nella prossima sezione.
+
+	•	Se la carta inizialmente girata sul tavolo è un J, è di solito conveniente per il primo giocatore prenderlo e fare di quel seme l'atout (il Jack si dice "obligé"). In altre varianti del Belote prendere il Jack quando è "obligè" non è solo consigliato ma è obbligatorio.
+
+	•	Nel caso in cui alla fine di una partita, la squadra che ha mandato riesca ad effettuare tutti i punti possibili (gli avversari potrebbero quindi aver preso una o più mani senza punti) si dice che chi ha mandato ha fatto "Cappotto" e l'ultima mano invece di valere 10 punti ne varrà bensì 100. Andranno quindi alla squadra che ha fatto "Cappotto" ben 252 punti più eventuali dichiarazioni. Le dichiarazioni degli avversari restano a loro. È da notare che, nel caso la squadra non chiamante abbia "Belote e Rebelote", non è possibile effettuare il "Cappotto", in quanto non è possibile effettuare tutti i punti sui 182 disponibili (più le eventuali dichiarazioni).
+
+
+PUNTEGGIO
+
+Terminata la mano, bisogna contare i punti; anche qui ci sono diverse regole:
+
+	•	La somma totale dei punti è 152 più 10 punti per la squadra che si aggiudica l'ultima mano, ma la squadra del giocatore che ha "chiamato" o "mandato", cioè scelto il seme di atout, deve farne più della metà, pena il punteggio pieno per la squadra avversaria, comprese le scale e i carré (si dice che la squadra che ha aperto “è andata sotto”). Al punteggio delle squadre vanno poi aggiunti gli eventuali punti delle dichiarazioni; il "Belote e Rebelote" alza il punteggio totale a 182 punti, ma in questo caso chi "manda" è tenuto a farne più di 91 (anziché 81). In caso di pareggio, gli 81 punti dei chiamanti rimangono in palio per la mano successiva. Se una squadra riesce a non far totalizzare nemmeno un punto alla squadra avversaria nel corso della mano, si parla di "cappotto" e la squadra vincente totalizza così 252 punti (anziché 162), più eventuali dichiarazioni.
+
+	•	Vince la coppia che per prima supera i 751 punti.
+
+È da notare che è possibile che la squadra che perde la mano effettui l'"essenza", cioè faccia più punti del vincente sfruttando i punti delle dichiarazioni.
+
+
+MOSSE
+
+Dal momento che il gioco è spesso meccanico e obbligato, per via del fatto che è obbligatorio rispondere a seme e "mangiarsi"gli atout, ci sono delle "mosse" standard, che solitamente vengono sempre effettuate in certe situazioni dai giocatori:
+
+	•	Mossa Casaro: se è "primo di mano" (il primo a giocare), il chiamante gioca il Jack, allo scopo di far uscire più briscole possibile e il più alte possibile, e successivamente, se lo possiede il nove, con lo stesso scopo. Fatto questo, restano poche briscole (se non nessuna) e si gioca "a strozzo", cioè comandano le carte più alte dei vari semi.
+
+	•	Mossa Leccese: se uno dei giocatori dichiara una scala, è possibile dichiararne una fasulla uguale, allo scopo di sapere dall'avversario la carta più alta (o anche il seme) della sua, prima della seconda mano (questo sfruttando il fatto che bisogna decidere chi abbia la tiers più alta, "anticipando" la natura della propria dichiarazione). Nel caso in cui la squadra avversaria potesse confutare la tiers dichiarata in maniera fasulla, può farlo e guadagnarsi altri 20 punti, oppure può fare finta di nulla al fine di non rivelare le proprie carte all'avversario.
+
+	•	Se il proprio compagno gioca un asso e si pensa che questo non venga tagliato da un atout, è conveniente giocare il dieci di quel seme (ovviamente se lo si ha in mano), che difficilmente resisterebbe a un secondo giro dello stesso seme (il dieci dovrebbe cioè "reggere", il che succede solo se tutti i giocatori hanno due carte di quel seme). Ovviamente questa mossa è conveniente se ci sono ancora atout in gioco che taglierebbero facilmente il dieci.
+
+	•	Mossa Casaro Indotta: se il proprio compagno ha chiamato e si è primi a giocare, è possibile giocare un atout basso allo scopo di far superare con un atout più alta l'avversario alla propria sinistra, presupponendo naturalmente che il compagno chiamante abbia il "Venti" (cioè il Jack di atout). In questo modo è possibile mangiare un nove o un asso di atout con facilità, se è singolo nella mano di quel giocatore, se così non fosse sarebbe comunque una buona mossa Casaro.
